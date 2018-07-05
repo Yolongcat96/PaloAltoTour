@@ -1,0 +1,301 @@
+{
+  "List": [
+    {
+      "itemCategory": "Places",
+      "itemIndex": 0,
+      "itemName": "Stanford University",
+      "itemAddress": "450 Serra Mall, Stanford, CA 94305",
+      "itemSiteAddress": "www.stanford.edu",
+      "itemCallNumber": "1 (650) 723-2300",
+      "itemDetails": "Stanford University is one of the world's leading research universities. It is known for its entrepreneurial character, drawn from the legacy of its founders, Jane and Leland Stanford, and its relationship to Silicon Valley. Areas of excellence range from the humanities to social sciences to engineering and the sciences. Stanford is located in California's Bay Area, one of the most intellectually dynamic and culturally diverse areas of the nation. The contents are from http://facts.stanford.edu/.  ",
+      "isFavorite": true,
+      "imageString": "places_stanford"
+    },
+    {
+      "itemCategory": "Places",
+      "itemIndex": 1,
+      "itemName": "Palo Alto Downtown",
+      "itemAddress": "367 University Ave. Palo Alto, CA 94301",
+      "itemSiteAddress": "https://www.destinationpaloalto.com/downtown-palo-alto",
+      "itemCallNumber": "1 (650) 324-3121",
+      "itemDetails": "Defined roughly by Alma and Webster streets and Lytton and Forest avenues, downtown Palo Alto is a charming combination of small-town accessibility and urban ambience. Outdoor cafes, tiny coffee shops, bookstores, mom-and-pop specialty shops, national chains, art galleries, two movie theaters and numerous restaurants attract shoppers, eaters and entertainment-seekers of all ages. Parking along University Avenue can be difficult during the peak restaurant hours, especially on weekends, but there are several large garages available to the public. The contents are from https://www.destinationpaloalto.com/downtown-palo-alto",
+      "isFavorite": false,
+      "imageString": "places_pa_downtown"
+    },
+    {
+      "itemCategory": "Places",
+      "itemIndex": 2,
+      "itemName": "Chidren's Library",
+      "itemAddress": "1276 Harriet Street, Palo Alto, CA 94301",
+      "itemSiteAddress": "https://library.cityofpaloalto.org",
+      "itemCallNumber": "1 (650) 329-2436",
+      "itemDetails": "Built in 1940, the Children's Library was the first freestanding library in the United States intended solely for children. The Children's Library serves children from birth through 5th grade in a fun and inviting garden setting. Computers are available for ages 11 and under. The contents are from https://library.cityofpaloalto.org/locations/C/",
+      "isFavorite": false,
+      "imageString": "places_children_library"
+    },
+    {
+      "itemCategory": "Places",
+      "itemIndex": 3,
+      "itemName": "Junior Museum & Zoo",
+      "itemAddress": "4050 Middlefield Road, Palo Alto, CA 94303",
+      "itemSiteAddress": "https://www.cityofpaloalto.org/gov/depts/csd/jmz/",
+      "itemCallNumber": "1 (650)329-2111",
+      "itemDetails": "Founded in 1934 by Josephine O’Hara in a local elementary school, the Junior Museum & Zoo was the first children’s museum west of the Mississippi and has been a local leader in children’s science education since its inception. Every couple of years, the Museum introduces a new interactive science exhibit that is developed and designed in-house. The exhibit pictured below, Clean Green Energy Machines, introduces children and their families to renewable forms of energy like water, solar, wind, and kid-power. The other current exhibit, Buzzzz, features the amazing lives of insects and spiders. The contents are from https://www.cityofpaloalto.org/gov/depts/csd/jmz/about_the_junior_museum_n_zoo/history.asp",
+      "isFavorite": false,
+      "imageString": "places_junior_museum"
+    },
+    {
+      "itemCategory": "Places",
+      "itemIndex": 4,
+      "itemName": "Cantor Arts Center",
+      "itemAddress": "Lomita Dr. and Museum Way, Stanford University, Palo Alto, CA",
+      "itemSiteAddress": "https://museum.stanford.edu/",
+      "itemCallNumber": "1 (650) 723-4177",
+      "itemDetails": "Serving the Stanford campus, the Bay Area community, and visitors from around the world, the Cantor Arts Center provides an outstanding cultural experience for visitors of all ages. Founded when the university opened in 1891, the historic museum was expanded and renamed in 1999 for lead donors Iris and B. Gerald Cantor. The Cantor’s collection spans 5,000 years and includes more than 38,000 works of art from around the globe. These include our renowned collection of Rodin bronze sculptures, which are displayed inside the museum as well as in our outdoor Rodin Sculpture Garden. With 24 galleries and more than 15 special exhibitions each year, the Cantor is an established resource for teaching and research on campus. Free admission, tours, lectures, and family activities make the Cantor one of the most visited university art museums in the country. The contents are from https://museum.stanford.edu/.",
+      "isFavorite": false,
+      "imageString": "places_cantor_center"
+    },
+    {
+      "itemCategory": "Places",
+      "itemIndex": 5,
+      "itemName": "The Stanford Shopping Center",
+      "itemAddress": "680 Stanford Shopping Ctr, Palo Alto, CA 94304",
+      "itemSiteAddress": "http://www.simon.com/mall/stanford-shopping-center",
+      "itemCallNumber": "1 (650) 617-8200",
+      "itemDetails": "Welcome to Stanford Shopping Center, Northern California's premier open-air shopping and dining destination with Bloomingdale's, Macy's, Nordstrom, Neiman Marcus, Wilkes Bashford and more than 140 world-class specialty stores, ranging from luxury brands to local favorites. Enjoy an extraordinary mix of restaurants and cafes from Fleming's Prime Steakhouse & Wine Bar, P.F. Chang's China Bistro, Max's Opera Café and The Melt, to Yucca de Lac and so many more. Shop the European Street Market for the freshest California produce and gourmet specialty foods.",
+      "isFavorite": false,
+      "imageString": "places_stanford_shopping"
+    },
+    {
+      "itemCategory": "Places",
+      "itemIndex": 6,
+      "itemName": "The Stanford Theatre",
+      "itemAddress": "221 University Ave, Palo Alto, CA 94301",
+      "itemSiteAddress": "http://stanfordtheatre.org/",
+      "itemCallNumber": "1 (650) 324-3700",
+      "itemDetails": "The Stanford Theatre Foundation is dedicated to bringing back the authentic movie-going experience of Hollywood's Golden Age. Classic Hollywood directors never intended you to watch their pictures on a video screen in your living room (or while jogging). The magic of the movies depends on a larger-than-life image and the shared reactions of a large audience.The Stanford Theatre first opened in 1925, and it served for decades as Palo Alto's premier movie house. Most classic films played here on their initial Palo Alto engagements (schedules). The contents are from http://stanfordtheatre.org.",
+      "isFavorite": false,
+      "imageString": "places_stanford_theatre"
+    },
+    {
+      "itemCategory": "Transportations",
+      "itemIndex": 0,
+      "itemName": "CalTrain",
+      "itemAddress": "University Ave, Palo Alto, CA 94301",
+      "itemSiteAddress": "http://www.caltrain.com/main.html",
+      "itemCallNumber": "1 (800) 660-4287",
+      "itemDetails": "Palo Alto is the main train station in Palo Alto, California and the second busiest in the Caltrain system after the 4th and King Street Station in downtown San Francisco.It is a regional transit center where passengers can take buses serving Santa Clara County (VTA), San Mateo County (SamTrans) and Stanford University(Marguerite Shuttle), as well as Caltrain commuters; in addition the Dumbarton Express bus administered by AC Transit takes passengers back and forth over the Dumbarton Bridge to Union City BART station in the East Bay. It is listed on the National Register of Historic Places for its architectural significance. The contents are from https://en.wikipedia.org/wiki/Palo_Alto_station",
+      "isFavorite": false,
+      "imageString": "transportations_caltrain"
+    },
+    {
+      "itemCategory": "Transportations",
+      "itemIndex": 1,
+      "itemName": "Sam Trans Bus",
+      "itemAddress": "University Ave, Palo Alto, CA 94301",
+      "itemSiteAddress": "http://www.samtrans.com/",
+      "itemCallNumber": "1 (800) 660-4287",
+      "itemDetails": "The San Mateo County Transit District is the administrative body for the principal public transit and transportation programs in San Mateo County: SamTrans bus service, including Redi-Wheels & RediCoast paratransit service, Caltrain commuter rail and the San Mateo County Transportation Authority . Caltrain and the TA have contracted with the District to serve as their managing agency, under the direction of their appointed boards. The contents are from http://www.samtrans.com/about.html.",
+      "isFavorite": false,
+      "imageString": "transportations_samtrans"
+    },
+    {
+      "itemCategory": "Transportations",
+      "itemIndex": 2,
+      "itemName": "Marguerite Shuttle",
+      "itemAddress": "340 Bonair Siding, Stanford, CA 94305",
+      "itemSiteAddress": "https://transportation.stanford.edu/",
+      "itemCallNumber": "1 (650) 723-9362",
+      "itemDetails": "In December 2000, the Santa Clara County Board of Supervisors approved the Stanford University General Use Permit (GUP), which placed many conditions on Stanford’s land use, growth, and development. Stanford agreed to comply with the conditions of the GUP in order to gain the needed approval to further develop Stanford land. The contents are from https://transportation.stanford.edu",
+      "isFavorite": true,
+      "imageString": "transportations_marguerite"
+    },
+    {
+      "itemCategory": "Transportations",
+      "itemIndex": 3,
+      "itemName": "Uber",
+      "itemAddress": "900 Arastradero Rd, Palo Alto, CA 94304",
+      "itemSiteAddress": "https://www.uber.com/",
+      "itemCallNumber": "N/A",
+      "itemDetails": "For riders - Uber is a convenient, inexpensive and safe taxi service. Hire a private driver to pick you up & take you to your destination with the tap of a button on any smartphone device. A nearby driver often arrives to pick you up within minutes. Not only is this an on-demand car service, but you can even watch as your driver is en-route to come pick you up. For drivers - Uber provides exceptional pay, allows you to be your own boss, and even receive tips. Take on fares whenever you wish (work as much or as little as you desire) while meeting new people in your city from all walks of life. The contents are from http://uberestimate.com/about-uber/.",
+      "isFavorite": false,
+      "imageString": "transportations_uber"
+    },
+    {
+      "itemCategory": "Foods",
+      "itemIndex": 0,
+      "itemName": "The Counter",
+      "itemAddress": "369 S California Ave, Palo Alto, CA 94306",
+      "itemSiteAddress": "www.thecounter.com",
+      "itemCallNumber": "1 (650) 321-3900",
+      "itemDetails": "We’re on a mission to challenge the way people think about burgers. We’re about creative construction. We think life is about experiences. Trying stuff. Learning. Being Inventive. So we’ve searched for ingredients, chosen quality meats, inventive sauces, toasted buns, melted cheeses and blended shakes that shout flavor. Show us what you’ve got. The contents are from www.thecounter.com",
+      "isFavorite": true,
+      "imageString": "foods_thecounter"
+    },
+    {
+      "itemCategory": "Foods",
+      "itemIndex": 1,
+      "itemName": "Palo Alto Pizza",
+      "itemAddress": "2450 Park Blvd, Palo Alto, CA 94306",
+      "itemSiteAddress": "http://paloalto-pizza.com/",
+      "itemCallNumber": "1 (650) 328-1662",
+      "itemDetails": "Palo Alto Pizza Co. offers the Bay Area’s most unique gourmet pizza experience ever. Utilizing only fresh ingredients, we create all of our rich sauces and savory crusts in our kitchen from scratch, and serve it up warm. The contents are from http://paloalto-pizza.com/",
+      "isFavorite": false,
+      "imageString": "foods_paloalto_pizza"
+    },
+    {
+      "itemCategory": "Foods",
+      "itemIndex": 2,
+      "itemName": "Buca di Beppo",
+      "itemAddress": "643 Emerson St, Palo Alto, CA 94301",
+      "itemSiteAddress": "www.bucadibeppo.com",
+      "itemCallNumber": "1 (650) 329-0665",
+      "itemDetails": "Buca di Beppo catering is great for any special occasion, from corporate events to birthday parties. Our fantastic Packages start at $8.99 per person and a la carte Party Pans, available for lunch, dinner or any time of day, are event-ready, accompanied by utensils, plates and everything else you need to serve your guests. Whatever the reason for your event, our catering team at Palo Alto, CA can make it an occasion to remember. The contents are from www.bucadibeppo.com",
+      "isFavorite": false,
+      "imageString": "foods_buca"
+    },
+    {
+      "itemCategory": "Foods",
+      "itemIndex": 3,
+      "itemName": "Paris Barguette",
+      "itemAddress": "383 University Ave, Palo Alto, CA 94301",
+      "itemSiteAddress": "http://parisbaguette.com/",
+      "itemCallNumber": "1 (650) 838-0404",
+      "itemDetails": "We are an international, franchise, fast casual bakery-café founded in 1988 specializing in French-inspired goods. In addition to chef-inspired cakes, pastries, sandwiches and signature coffee, we offer a unique Parisian experience to thousands of customers daily. Today, there are over 3,000 locations worldwide, satisfying cravings and taste buds of all ages and backgrounds. The contents are from http://parisbaguette.com/",
+      "isFavorite": false,
+      "imageString": "foods_paris_barguette"
+    },
+    {
+      "itemCategory": "Foods",
+      "itemIndex": 4,
+      "itemName": "Sogong Dong Tofu House",
+      "itemAddress": "4127 El Camino Real, Palo Alto, CA 94306",
+      "itemSiteAddress": "N/A",
+      "itemCallNumber": "1 (650) 424-8805",
+      "itemDetails": "Sogong Dong Tofu House is a family-owned and operated Korean restaurant serving a variety of Korean soups, BBQ meats and other delicious dishes.",
+      "isFavorite": false,
+      "imageString": "foods_sogongdong"
+    },
+    {
+      "itemCategory": "Foods",
+      "itemIndex": 5,
+      "itemName": "JinSho",
+      "itemAddress": "454 California Ave, Palo Alto, CA 94306",
+      "itemSiteAddress": "http://www.jinshorestaurant.com/",
+      "itemCallNumber": "1 (650) 321-3454",
+      "itemDetails": "We would love to welcome you in to our newest restaurant, Jin Sho!Join us for Executive-Class Japanese Cuisine on California Avenue in the heart of Palo Alto!",
+      "isFavorite": false,
+      "imageString": "foods_jinsho"
+    },
+    {
+      "itemCategory": "Foods",
+      "itemIndex": 6,
+      "itemName": "Joani's Cafe",
+      "itemAddress": "405 California Ave, Palo Alto, CA 94306",
+      "itemSiteAddress": "http://joaniescafepaloalto.com/",
+      "itemCallNumber": "1 (650) 326-6505",
+      "itemDetails": "Welcome to Joanie's Cafe, Serving fresh, delicious American cuisine with a French twist since 1987. Voted \"Best Breaktfast\" in Palo Alto in 2012, 2013, 2014, & 2015! This cafe is only open by 2 pm and there are a lot of guests. If you want to enjoy the food, please be there at the earliest time. No reservation is needed.",
+      "isFavorite": false,
+      "imageString": "foods_joani"
+    },
+    {
+      "itemCategory": "Foods",
+      "itemIndex": 7,
+      "itemName": "True Food Kitchen",
+      "itemAddress": "180 El Camino Real, Palo Alto, CA 94304",
+      "itemSiteAddress": "https://www.truefoodkitchen.com/paloalto",
+      "itemCallNumber": "1 (650) 272-5157",
+      "itemDetails": "Welcome to True Food Kitchen - A health-driven, seasonal restaurant merging nutrient-rich ingredients with a flavor-forward menu that rotates regularly to let guests experience great-tasting ingredients at the peak of their freshness. Our open kitchen brings guests closer to our culinary craft while showcasing that there’s nothing secret about the way we prepare our dishes.Our scratch bar is brimming with a selection of wine, local beers and seasonal cocktails made using fresh-pressed fruit and vegetable juices paired with organic spirits.We take great pride in a menu that caters to nearly every food preference with a variety of gluten-free, naturally organic, vegetarian and vegan offerings.Our commitment to quality and creativity ensures a menu that encourages exploration all throughout the year. Every meal at True Food Kitchen is an opportunity to further your journey toward healthy living. The contents are from https://www.truefoodkitchen.com/paloalto",
+      "isFavorite": false,
+      "imageString": "foods_true_food_kitchen"
+    },
+    {
+      "itemCategory": "Foods",
+      "itemIndex": 8,
+      "itemName": "California Pizza Kitchen",
+      "itemAddress": "136 Stanford Shopping Center, Palo Alto, CA 94304",
+      "itemSiteAddress": "https://www.cpk.com/",
+      "itemCallNumber": "1 (650) 325-2753",
+      "itemDetails": "The California Pizza Kitchen chain is widely known for its innovative and nontraditional pizzas, such as the \"Original BBQ Chicken Pizza\", BLT, Thai Chicken, and Jamaican Jerk Chicken pizzas. They also serve various kinds of pasta, salads, soups, sandwiches and desserts. They have an extensive children's menu for children ages 10 and under which includes a variety of different pizzas, pastas, salad and chicken. The chain has over 200 locations in 32 US states and 13 other countries, including 17 California Pizza Kitchen nontraditional, franchise concepts designed for airports, universities and stadiums.CPK's brand is licensed to a line of hand-tossed style, crispy thin crust, gluten-free crust and small frozen pizzas for sale in supermarkets. The brand was originally licensed to Kraft in 1999. The license was assigned to Nestlé after it purchased Kraft's pizza lines in 2010. The contents ar e from https://en.wikipedia.org/wiki/California_Pizza_Kitchen",
+      "isFavorite": false,
+      "imageString": "foods_cpk"
+    },
+    {
+      "itemCategory": "Foods",
+      "itemIndex": 9,
+      "itemName": "Fish Market",
+      "itemAddress": "3150 El Camino Real, Palo Alto, CA 94306",
+      "itemSiteAddress": "https://www.thefishmarket.com/",
+      "itemCallNumber": "1 (650) 493-9188",
+      "itemDetails": "In 1976, a sport fisherman, business partner, boat captain and gourmet chef joined forces to open The Fish Market. Not one of them had notable experience in the restaurant business, but their individual and collective passion for seafood was deep enough to drive them toward their vision: A lively, welcoming restaurant serving the freshest seafood, prepared to perfection, at an honest price. The contents are from https://www.thefishmarket.com/our-story/",
+      "isFavorite": false,
+      "imageString": "foods_fish_market"
+    },
+    {
+      "itemCategory": "Lodgings",
+      "itemIndex": 0,
+      "itemName": "Creekside Inn",
+      "itemAddress": "3400 El Camino Real, Palo Alto, CA 94306",
+      "itemSiteAddress": "https://www.creekside-inn.com/",
+      "itemCallNumber": "1 (650) 493-2411",
+      "itemDetails": "Experience a charming boutique hotel in beautiful Palo Alto, California. Nestled along Matadero Creek and a lush landscape of gardens and oak trees, Creekside Inn, a Greystone Hotel with no hidden fees,  is a peaceful escape for vacation, business travelers and special events. A short jaunt from Downtown Palo Alto, our eco-friendly hotel is more than a place to rest your head; it's a retreat from the hustle and bustle of Silicon Valley. The contents are from https://www.creekside-inn.com/",
+      "isFavorite": false,
+      "imageString": "lodgings_creekside"
+    },
+    {
+      "itemCategory": "Lodgings",
+      "itemIndex": 1,
+      "itemName": "The Westin Palo Alto",
+      "itemAddress": "675 El Camino Real, Palo Alto, CA 94301",
+      "itemSiteAddress": "http://www.starwoodhotels.com/westin/property/overview/index.html?propertyID=1198",
+      "itemCallNumber": "1 (650) 321-4422",
+      "itemDetails": "Enjoy an inspiring day in nearby San Francisco or refresh at our pool, steps from Palo Alto’s top shops and adjacent to Stanford University.",
+      "isFavorite": false,
+      "imageString": "lodgings_westin"
+    },
+    {
+      "itemCategory": "Lodgings",
+      "itemIndex": 2,
+      "itemName": "Sheraton Palo Alto Hotel",
+      "itemAddress": "625 El Camino Real, Palo Alto, CA 94301",
+      "itemSiteAddress": "http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=214&SWAQ=958C",
+      "itemCallNumber": "1 (650) 328-2800",
+      "itemDetails": "Delight in nearby downtown Palo Alto, explore San Francisco and Napa Valley, or simply relax at our scenic hotel, set amongst lush gardens.",
+      "isFavorite": false,
+      "imageString": "lodgings_sheraton"
+    },
+    {
+      "itemCategory": "Lodgings",
+      "itemIndex": 3,
+      "itemName": "Stanford Terrace Inn",
+      "itemAddress": "531 Stanford Ave, Palo Alto, CA, 94306",
+      "itemSiteAddress": "http://stanfordterraceinn.com/",
+      "itemCallNumber": "1 (650) 857-0333",
+      "itemDetails": "The Most Affordable Luxurious Green Garden Hotel: we believe in creating a uniquely serene environment for all of our guests, beginning the moment you enter our doors. To that end, our hotel offers a sun-drenched patio and a heated pool, both nestled inside bold gardens. All our spacious guest rooms come complete with a wide range of amenities, including a microwave and refrigerator, free wireless Internet, and a generously sized workspace.",
+      "isFavorite": false,
+      "imageString": "lodgings_terrace"
+    },
+    {
+      "itemCategory": "Lodgings",
+      "itemIndex": 4,
+      "itemName": "Homewood Suites by Hilton",
+      "itemAddress": "4329 El Camino Real, Palo Alto, CA 94306",
+      "itemSiteAddress": "http://homewoodsuites3.hilton.com/en/index.html",
+      "itemCallNumber": "1 (650) 559-8700",
+      "itemDetails": "We're always happy to have you, and we want you to feel the same about your stay. Take a look at our available offers to discover ways to go further and save more when you book. Come home to Homewood Suites.",
+      "isFavorite": true,
+      "imageString": "lodgings_terrace"
+    },
+    {
+      "itemCategory": "Lodgings",
+      "itemIndex": 5,
+      "itemName": "Airbnb in Palo Alto",
+      "itemAddress": "N/A",
+      "itemSiteAddress": "www.airbnb.com/Palo-Alto",
+      "itemCallNumber": "1 (650) 559-8700",
+      "itemDetails": "Airbnb is an American company which operates an online marketplace and hospitality service for people to lease or rent short-term lodging including holiday cottages, apartments, homestays, hostel beds, or hotel rooms, to participate in or facilitate experiences related to tourism such as walking tours, and to make reservations at restaurants. The company does not own any real estate or conduct tours; it is a broker which receives percentage service fees in conjunction with every booking. The company has over 5 million lodging listings in 81,000 cities and 191 countries and has facilitated over 300 million check-ins. The contents are from https://en.wikipedia.org/wiki/Airbnb",
+      "isFavorite": false,
+      "imageString": "lodgings_airbnb"
+    }
+  ]
+}

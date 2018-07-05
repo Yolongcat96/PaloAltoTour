@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PaloAltoTour</string>
+    <string name="home_title">Palo Alto\nTour</string>
+    <string name="start_title">START</string>
+    <string name="title_activity_main_list_view">mainListViewActivity</string>
+    <string name="title_activity_main_list">mainListActivity</string>
+
+    <!-- Category name -->
+    <string name="category_places">Places</string>
+    <string name="category_transportations">Transportations</string>
+    <string name="category_foods">Foods</string>
+    <string name="category_lodgings">Lodgings</string>
+
+    <string name="drawer_title">My Palo Alto</string>
+    <string name="drawer_about">About</string>
+    <string name="drawer_favorite">My Favorite</string>
+    <string name="drawer_exit">Exit</string>
+    <string name="about_paloalto">About\nPalo Alto</string>
+    <string name="favorite_title">My Favorites\nin Palo Alto</string>
+
+    <string name="about_details">Located 35 miles south of San Francisco and 14 miles north of San Jose, Palo Alto is a community of approximately 66,649 residents.\n\nPart of the San Francisco Metropolitan Bay Area and the Silicon Valley, Palo Alto is located within Santa Clara County and borders San Mateo County.\n\nThe City\'s boundaries extend from San Francisco Bay on the east to the Skyline Ridge of the coastal mountains on the west, with Menlo Park to the north and Mountain View to the south.\n\nThe City encompasses an area of approximately 26 square miles, of which one-third is open space. Palo Alto is strategically located and easily accessible to major surface routes, including Interstate 280, Highway 101, Highway 84 - the Dumbarton Bridge and Highway 92 - the Hayward-San Mateo Bridge. Air transportation is easily accessible by bus, automobile or shuttle service to San Francisco, San Jose and Oakland international airports. Within the City, commuter rail transportation is conveniently located and the Palo Alto stop is one of the most used in the Caltrain system. Alternative transportation options include numerous bike paths throughout the City and an internal shuttle service is also available.\n\nThe City of Palo Alto is more than 100 years old, and is named after a majestic 1000 (not 250) year old coastal redwood tree along San Francisquito Creek, where early Spanish explorers settled. The blend of business and residential areas anchored by a vibrant downtown defines Palo Alto’s unique character.\n\nA charming mixture of old and new, Palo Alto’s tree-lined streets and historic buildings reflect its California heritage. At the same time, Palo Alto is recognized worldwide as a leader in cutting-edge technological development. This exciting mix of tradition and innovation makes Palo Alto an extraordinary place in which to operate a business. Unique among California cities, Palo Alto is a full-service municipality that owns and operates its gas, electric, water, sewer, refuse and storm drainage services at very competitive rates for its customers.\nAs befits the City known as "Birthplace of the Silicon Valley," the City has developed a 31-mile dark fiber ring for ultra-fast Internet access. Complementing its exciting and innovative business community, Palo Alto’s residents are highly educated, politically aware and culturally sophisticated. An abundance of local pride and numerous neighborhood organizations contribute to Palo Alto’s charming historic and upscale commercial and residential areas. Characteristic of Palo Alto is the care taken to protect open space and parkland.\n\nPalo Alto has a remarkable number of City-owned parks for its size (36 at last count) and nearly one-third of its 26 square miles is open space. Palo Alto’s San Francisco Bay location and natural environment offer the opportunity to enjoy bird and aquatic life in a natural habitat. Proximity to Stanford University with its cultural and educational offerings add to the vibrance, innate charm and beauty of Palo Alto.Distinctive in every way, Palo Alto offers its business community a diverse and exciting environment in which to work and live.\n\nThe contents are from https://www.cityofpaloalto.org/visiting/about_palo_alto.asp.\n\n</string>
+</resources>

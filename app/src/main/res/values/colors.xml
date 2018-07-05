@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="buttonColor">#273192</color>
+    <color name="lightGrayColor">#4D4D4D</color>
+
+    <!-- Main background color for app -->
+    <color name="main_background">#FFFFFF</color>
+
+    <!-- Tab color for the places category -->
+    <color name="category_tab_places">#9AADE4</color>
+    <!-- main back color for the places category -->
+    <color name="category_main_places">#AEBDE9</color>
+
+    <!-- Tab color for the transportations category -->
+    <color name="category_tab_trasportations">#F3BCBC</color>
+    <!-- main back color for the transportations category -->
+    <color name="category_main_trasportations">#F5C9C9</color>
+
+    <!-- Tab color for the foods category -->
+    <color name="category_tab_foods">#CBAF79</color>
+    <!-- main back color for the foods category -->
+    <color name="category_main_foods">#E6D9BF</color>
+
+    <!-- Tab color for the lodgings category -->
+    <color name="category_tab_lodgings">#79906A</color>
+    <!-- main back color for the lodgings category -->
+    <color name="category_main_lodgings">#94A688</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="drawer_header">#AAAFDB</color>
+    <color name="about_main_color">#B2BCE0</color>
+
+</resources>
